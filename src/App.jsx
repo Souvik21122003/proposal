@@ -13,7 +13,7 @@ function App() {
     "Your laugh has the power to make even the dullest days feel magical.",
     "I admire how kind and thoughtful you are, always bringing light to those around you.",
     "I just don't want to regret later of not expressing my feelings ",
-    "So, tell me rai will u give me a chance to be the love of your life ???"
+    "So, tell me Mam will u give me a chance to be the love of your life ???"
   ];
 
   const [cnt, setCnt] = useState(0);
